@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 7ea52ec1cef8cf24f80008154d129045
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1462578371870712088
+    second: butoes_0
+  - first:
+      213: -6393584159489641767
+    second: butoes_1
+  - first:
+      213: -4090693750918229796
+    second: butoes_2
+  - first:
+      213: -563255410001668354
+    second: butoes_3
+  - first:
+      213: -3312489376139176235
+    second: butoes_4
+  - first:
+      213: -8816163969997037712
+    second: butoes_5
+  - first:
+      213: 8738739593568135591
+    second: butoes_6
+  - first:
+      213: 6210197773473733673
+    second: butoes_7
+  - first:
+      213: 7013594904866960281
+    second: butoes_8
+  - first:
+      213: 5570049714714871833
+    second: butoes_9
+  - first:
+      213: -5262676030516458449
+    second: butoes_10
+  - first:
+      213: -5812850032172064611
+    second: butoes_11
+  - first:
+      213: 4386175077962878066
+    second: butoes_12
+  - first:
+      213: -8618522070262075560
+    second: butoes_13
+  - first:
+      213: 6392762674192110140
+    second: butoes_14
+  - first:
+      213: -798171905039551901
+    second: butoes_15
+  - first:
+      213: -1041662204062083000
+    second: butoes_16
+  - first:
+      213: -1734502309735140104
+    second: butoes_17
+  - first:
+      213: -8339022290391032296
+    second: butoes_18
+  - first:
+      213: 1714753150053020965
+    second: butoes_19
+  - first:
+      213: -7746481911825534206
+    second: butoes_20
+  - first:
+      213: -1183929159787891804
+    second: butoes_21
+  - first:
+      213: 9059194642401205587
+    second: butoes_22
+  - first:
+      213: -7582924935859629892
+    second: butoes_23
+  - first:
+      213: -5438646839823106515
+    second: butoes_24
+  - first:
+      213: -5293774714597653143
+    second: butoes_25
+  - first:
+      213: 454709168623813766
+    second: butoes_26
+  - first:
+      213: 1596721393689443150
+    second: butoes_27
+  - first:
+      213: 5309668184607407654
+    second: butoes_28
+  - first:
+      213: 5886791417975958285
+    second: butoes_29
+  - first:
+      213: 6441831304845466214
+    second: butoes_30
+  - first:
+      213: -2791115817834737567
+    second: butoes_31
+  - first:
+      213: 1598661481848717477
+    second: butoes_32
+  - first:
+      213: -4110126904234826178
+    second: butoes_33
+  - first:
+      213: 5384125132884739976
+    second: butoes_1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: butoes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5853
+        width: 447
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811e587b74f1c4410800000000000000
+      internalID: 1462578371870712088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_2
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 5850
+        width: 467
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0db9bf4bfea37c0800000000000000
+      internalID: -4090693750918229796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_3
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 5853
+        width: 409
+        height: 407
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef69809503aee28f0800000000000000
+      internalID: -563255410001668354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_4
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 5854
+        width: 406
+        height: 408
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d618f4767ca702d0800000000000000
+      internalID: -3312489376139176235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_5
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 5745
+        width: 597
+        height: 596
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f9abe4491b6a580800000000000000
+      internalID: -8816163969997037712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_6
+      rect:
+        serializedVersion: 2
+        x: 3398
+        y: 5844
+        width: 431
+        height: 430
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9254b4c5d364970800000000000000
+      internalID: 8738739593568135591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_7
+      rect:
+        serializedVersion: 2
+        x: 3909
+        y: 5884
+        width: 317
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cd2d0d8fd0f2650800000000000000
+      internalID: 6210197773473733673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_8
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 5386
+        width: 325
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993b517086b455160800000000000000
+      internalID: 7013594904866960281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_9
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 5401
+        width: 316
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91888d244bacc4d40800000000000000
+      internalID: 5570049714714871833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_10
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 5435
+        width: 195
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c8a19780837f6b0800000000000000
+      internalID: -5262676030516458449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_11
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 5446
+        width: 186
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9024cb81bb945fa0800000000000000
+      internalID: -5812850032172064611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_12
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 5429
+        width: 486
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c06a49ef2dedc30800000000000000
+      internalID: 4386175077962878066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_13
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 5367
+        width: 126
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f2a2907dbd46880800000000000000
+      internalID: -8618522070262075560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_14
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 5367
+        width: 142
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32d89828c7a7b850800000000000000
+      internalID: 6392762674192110140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_15
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 5364
+        width: 146
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362bb6a91e25ce4f0800000000000000
+      internalID: -798171905039551901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_16
+      rect:
+        serializedVersion: 2
+        x: 3593
+        y: 5367
+        width: 195
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848ddee8eb54b81f0800000000000000
+      internalID: -1041662204062083000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_17
+      rect:
+        serializedVersion: 2
+        x: 3909
+        y: 5364
+        width: 149
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4742ec65fcde7e0800000000000000
+      internalID: -1734502309735140104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4398
+        width: 802
+        height: 889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e9d2fa867d54c80800000000000000
+      internalID: -8339022290391032296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_19
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 5095
+        width: 446
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5257462a7e60cc710800000000000000
+      internalID: 1714753150053020965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_20
+      rect:
+        serializedVersion: 2
+        x: 2794
+        y: 5042
+        width: 161
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20376aa6eb7fe7490800000000000000
+      internalID: -7746481911825534206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_21
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 5045
+        width: 163
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3bd9fa3b6d19fe0800000000000000
+      internalID: -1183929159787891804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_22
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 5045
+        width: 164
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d12739789b8bd70800000000000000
+      internalID: 9059194642401205587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_23
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 5042
+        width: 163
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb092a762f904c690800000000000000
+      internalID: -7582924935859629892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_24
+      rect:
+        serializedVersion: 2
+        x: 4085
+        y: 5045
+        width: 168
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2efa8da38b0684b0800000000000000
+      internalID: -5438646839823106515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_25
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 4767
+        width: 1139
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9654677d1fbb886b0800000000000000
+      internalID: -5293774714597653143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_27
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 3940
+        width: 2031
+        height: 879
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b3024d5a1b82610800000000000000
+      internalID: 1596721393689443150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_28
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2438
+        width: 1907
+        height: 1897
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62eb7b2051bbfa940800000000000000
+      internalID: 5309668184607407654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_29
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 3677
+        width: 2013
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b6647ea9512b150800000000000000
+      internalID: 5886791417975958285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_30
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 2841
+        width: 2084
+        height: 633
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a1e44017bf56950800000000000000
+      internalID: 6441831304845466214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_31
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 2194
+        width: 2043
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1609cfe93f6f349d0800000000000000
+      internalID: -2791115817834737567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_32
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 3654
+        height: 2042
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a041bdc5269f2610800000000000000
+      internalID: 1598661481848717477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_33
+      rect:
+        serializedVersion: 2
+        x: 4219
+        y: 1726
+        width: 343
+        height: 328
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36ae436b55e5f6c0800000000000000
+      internalID: -4110126904234826178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_1
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 5865
+        width: 510
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88709d3384148ba40800000000000000
+      internalID: -6393584159489641767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: butoes_26
+      rect:
+        serializedVersion: 2
+        x: 3967
+        y: 5050
+        width: 119
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6848fe764937f4600800000000000000
+      internalID: 454709168623813766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      butoes_22: 9059194642401205587
+      butoes_24: -5438646839823106515
+      butoes_0: 1462578371870712088
+      butoes_32: 1598661481848717477
+      butoes_27: 1596721393689443150
+      butoes_17: -1734502309735140104
+      butoes_33: -4110126904234826178
+      butoes_28: 5309668184607407654
+      butoes_12: 4386175077962878066
+      butoes_6: 8738739593568135591
+      butoes_26: 454709168623813766
+      butoes_2: -4090693750918229796
+      butoes_19: 1714753150053020965
+      butoes_10: -5262676030516458449
+      butoes_9: 5570049714714871833
+      butoes_14: 6392762674192110140
+      butoes_11: -5812850032172064611
+      butoes_18: -8339022290391032296
+      butoes_3: -563255410001668354
+      butoes_20: -7746481911825534206
+      butoes_29: 5886791417975958285
+      butoes_16: -1041662204062083000
+      butoes_23: -7582924935859629892
+      butoes_31: -2791115817834737567
+      butoes_1: -6393584159489641767
+      butoes_21: -1183929159787891804
+      butoes_5: -8816163969997037712
+      butoes_15: -798171905039551901
+      butoes_13: -8618522070262075560
+      butoes_7: 6210197773473733673
+      butoes_4: -3312489376139176235
+      butoes_25: -5293774714597653143
+      butoes_8: 7013594904866960281
+      butoes_30: 6441831304845466214
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

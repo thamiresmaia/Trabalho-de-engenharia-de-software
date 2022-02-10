@@ -1,0 +1,597 @@
+fileFormatVersion: 2
+guid: 53172962bfa4def46b2eac1545577b6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7521572275438124795
+    second: gameer_0
+  - first:
+      213: 5874645765189709489
+    second: gameer_1
+  - first:
+      213: 7735837313412371658
+    second: gameer_2
+  - first:
+      213: -3579312145159797021
+    second: gameer_3
+  - first:
+      213: 311313755727309295
+    second: gameer_4
+  - first:
+      213: -4701250138474491932
+    second: gameer_5
+  - first:
+      213: -4915566431267909560
+    second: gameer_6
+  - first:
+      213: 2912068440242873612
+    second: gameer_7
+  - first:
+      213: -4256119252102563461
+    second: gameer_8
+  - first:
+      213: 1778423367114603899
+    second: gameer_9
+  - first:
+      213: 1249465281809491046
+    second: gameer_10
+  - first:
+      213: -4839498425992109294
+    second: gameer_11
+  - first:
+      213: 9074017696804884104
+    second: gameer_12
+  - first:
+      213: 250868807640581122
+    second: gameer_13
+  - first:
+      213: -603499260596490898
+    second: gameer_14
+  - first:
+      213: -2906755724246369598
+    second: gameer_15
+  - first:
+      213: 2112586147080902212
+    second: gameer_16
+  - first:
+      213: 2297895182906932386
+    second: gameer_17
+  - first:
+      213: 4495712619863517628
+    second: gameer_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gameer_0
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2147
+        width: 583
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5018512ddd10e9790800000000000000
+      internalID: -7521572275438124795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameer_1
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 2058
+        width: 641
+        height: 623
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bea26fb23fe68150800000000000000
+      internalID: 5874645765189709489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameer_2
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 2048
+        width: 626
+        height: 625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac41822ec073b5b60800000000000000
+      internalID: 7735837313412371658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameer_3
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 2028
+        width: 625
+        height: 624
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e64287619ab35ec0800000000000000
+      internalID: -3579312145159797021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameer_4
+      rect:
+        serializedVersion: 2
+        x: 3138
+        y: 2047
+        width: 625
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9a1df1632025400800000000000000
+      internalID: 311313755727309295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameer_5
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 2015
+        width: 625
+        height: 624
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efc8f748edc1ceb0800000000000000
+      internalID: -4701250138474491932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameer_6
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1916
+        width: 362
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8401172ef5668cbb0800000000000000
+      internalID: -4915566431267909560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameer_7
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1387
+        width: 625
+        height: 624
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c056d4e41deb96820800000000000000
+      internalID: 2912068440242873612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameer_8
+      rect:
+        serializedVersion: 2
+        x: 1763
+        y: 1367
+        width: 623
+        height: 624
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79b9b0171a3fe4c0800000000000000
+      internalID: -4256119252102563461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameer_9
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 1383
+        width: 626
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dbe1141aa3ea810800000000000000
+      internalID: 1778423367114603899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameer_10
+      rect:
+        serializedVersion: 2
+        x: 3138
+        y: 1391
+        width: 625
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6642079cd0ef65110800000000000000
+      internalID: 1249465281809491046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameer_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1670
+        width: 830
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213ada382d5a6dcb0800000000000000
+      internalID: -4839498425992109294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameer_12
+      rect:
+        serializedVersion: 2
+        x: 3901
+        y: 1620
+        width: 245
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ec9afd4036ded70800000000000000
+      internalID: 9074017696804884104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameer_13
+      rect:
+        serializedVersion: 2
+        x: 4163
+        y: 274
+        width: 258
+        height: 1590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20484a4f9d34b7300800000000000000
+      internalID: 250868807640581122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameer_14
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1247
+        width: 814
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d6fe5be90ff97f0800000000000000
+      internalID: -603499260596490898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameer_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1227
+        width: 100
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca3677c11129a7d0800000000000000
+      internalID: -2906755724246369598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameer_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 1108
+        height: 786
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4461b2668e9615d10800000000000000
+      internalID: 2112586147080902212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameer_17
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 0
+        width: 942
+        height: 1052
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acbf3c7e73c3ef10800000000000000
+      internalID: 2297895182906932386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gameer_18
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 908
+        width: 1112
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9a437fecaf36e30800000000000000
+      internalID: 4495712619863517628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gameer_17: 2297895182906932386
+      gameer_14: -603499260596490898
+      gameer_3: -3579312145159797021
+      gameer_6: -4915566431267909560
+      gameer_16: 2112586147080902212
+      gameer_12: 9074017696804884104
+      gameer_7: 2912068440242873612
+      gameer_18: 4495712619863517628
+      gameer_10: 1249465281809491046
+      gameer_0: -7521572275438124795
+      gameer_2: 7735837313412371658
+      gameer_13: 250868807640581122
+      gameer_5: -4701250138474491932
+      gameer_4: 311313755727309295
+      gameer_1: 5874645765189709489
+      gameer_11: -4839498425992109294
+      gameer_15: -2906755724246369598
+      gameer_9: 1778423367114603899
+      gameer_8: -4256119252102563461
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
