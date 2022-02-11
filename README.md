@@ -8,7 +8,7 @@ Frente a essa realidade, o ensino lúdico acabou tornando-se uma alternativa com
 
 O projeto consiste em uma aplicação Mobile voltada para a aprendizagem de forma interativa, é um jogo de perguntas e respostas e contendo um jogo da forca com um enigma para os usuários possam decifrá-los.
 
-O Relatório do projeto se encontra [aqui](https://docs.google.com/document/d/1IkagaPVUaK8mNznIy5O3rfz-qAXmessJNa-2ioF4C0M/edit#).
+O Relatório do projeto está disponível [aqui](https://docs.google.com/document/d/1IkagaPVUaK8mNznIy5O3rfz-qAXmessJNa-2ioF4C0M/edit#).
 
 ## 📋 Planejamento
 
@@ -59,3 +59,10 @@ Link para o apk [nossa historia](https://drive.google.com/file/d/1PjdD4frM08ijyr
 - Vitoria Nobre Lima  422637
 
 ## 📝 Referências
+
+- DANTAS, R.; ELAINE S. O ensino remoto com o lúdico durante a pandemia da Covid-19: Desafios e aprendizagens. Revista Prolíngua, [S. l.], v. 16, n. 1, p. 110–125, 2021. 
+
+- GROFFE, R. J. Modelagem de sistemas através de UML: Uma visão geral. DEVMEDIA, 2013. Disponível em: <https://www.devmedia.com.br/modelagem-de-sistemas-atraves-de-uml-uma-visao-geral/27913>.
+
+- HOLANDA, Rochelly Rodrigues. et al. Educação em tempos de Covid19: A emergência do EAD nos processo escolares da rede básica de educação. HOLOS, v.3, e11767, p. 1–15, 2021.
+
