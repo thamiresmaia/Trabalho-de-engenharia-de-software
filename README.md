@@ -8,7 +8,7 @@ Frente a essa realidade, o ensino lúdico acabou tornando-se uma alternativa com
 
 O projeto consiste em uma aplicação Mobile voltada para a aprendizagem de forma interativa, é um jogo de perguntas e respostas e contendo um jogo da forca com um enigma para os usuários possam decifrá-los.
 
-O Relatório do projeto está disponível [aqui](https://docs.google.com/document/d/1IkagaPVUaK8mNznIy5O3rfz-qAXmessJNa-2ioF4C0M/edit#).
+O Relatório do projeto está disponível [aqui](https://github.com/thamiresmaia/Trabalho-de-engenharia-de-software/blob/main/TRABALHO%20DE%20ENG.%20SOFTWARE%20-%20ENSINO%20L%C3%9ADICO%20-%20Documentos%20Google.pdf).
 
 ## 📋 Planejamento
 
